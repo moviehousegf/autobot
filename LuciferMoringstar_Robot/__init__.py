@@ -11,7 +11,7 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
+My Basic Commands
 
 /start :- check am Alive
 
@@ -30,12 +30,12 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [𝕯𝖍𝖞𝖆𝖓 𝕶 𝕹𝖆𝖗𝖆𝖞𝖆𝖓𝖆𝖓](
+https://t.me/DhyanKN)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [How to create one](https://youtu.be/5hnYOKBzyi8)
 """
